@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "This app works watching and tracking files in a specific directory",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "fs-extra": "^11.2.0"
+  }
+}
